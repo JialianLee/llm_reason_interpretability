@@ -25,4 +25,5 @@ python3 ../codes/data_generation/generate_query_from_subject_predicate_middle_tr
 python3 ../codes/data_generation/generate_virtual_map.py virtual_refer $all_count ../codes/common/all_virtual_words ${OUTPUT_PATH}/virtual_entiry_name_map.jsonl
 python3 ../codes/data_generation/generate_query_from_subject_predicate_middle_trees.py --map_file "${OUTPUT_PATH}/virtual_entiry_name_map.jsonl" --tree_file "${OUTPUT_PATH}/structure_s_p_m_trees.jsonl" --task_type "virtual" --out_file "${OUTPUT_PATH}/virtual_name_logic_prompts_d_${max_sentences}.jsonl" --save_original_order
 
-
+# # generate data for v probing
+python3 ../codes/data_generation/post_process_for_step_probing.py --input-path "${OUTPUT_PATH}/" --output-path "${OUTPUT_PATH}/final_res/"
