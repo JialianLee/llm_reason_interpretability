@@ -1,0 +1,47 @@
+{
+    "Barbara": {
+        "pattern": "AAA-1"
+    },
+    "Celarent": {
+        "pattern": "EAE-1"
+    },
+    "Darii": {
+        "pattern": "AII-1"
+    },
+    "Ferio": {
+        "pattern": "EIO-1"
+    },
+    "Camestres": {
+        "pattern": "AEE-2"
+    },
+    "Cesare": {
+        "pattern": "EAE-2"
+    },
+    "Baroko": {
+        "pattern": "AOO-2"
+    },
+    "Festino": {
+        "pattern": "EIO-2"
+    },
+    "Datisi": {
+        "pattern": "AII-3"
+    },
+    "Disamis": {
+        "pattern": "IAI-3"
+    },
+    "Ferison": {
+        "pattern": "EIO-3"
+    },
+    "Bokardo": {
+        "pattern": "OAO-3"
+    },
+    "Camenes": {
+        "pattern": "AEE-4"
+    },
+    "Dimaris": {
+        "pattern": "IAI-4"
+    },
+    "Fresison": {
+        "pattern": "EIO-4"
+    }
+}

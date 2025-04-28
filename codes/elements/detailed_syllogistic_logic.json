@@ -1,0 +1,125 @@
+{
+    "Barbara": {
+        "pattern": "AAA-1",
+        "Major_premise": "",
+        "Minor_premise": "",
+        "conclusion": "",
+        "sentences": {
+            "Major_premise": "所有$M$都是$P$。",
+            "Minor_premise": "所有$S$都是$M$。",
+            "conclusion": "所有$S$都是$P$。"
+        }
+    },
+    "Celarent": {
+        "pattern": "EAE-1",
+        "sentences": {
+            "Major_premise": "所有$M$都不是$P$。",
+            "Minor_premise": "所有$S$都是$M$。",
+            "conclusion": "所有$S$都不是$P$。"
+        }
+    },
+    "Darii": {
+        "pattern": "AII-1",
+        "sentences": {
+            "Major_premise": "所有$M$都是$P$。",
+            "Minor_premise": "有$S$是$M$。",
+            "conclusion": "有$S$是$P$。"
+        }
+    },
+    "Ferio": {
+        "pattern": "EIO-1",
+        "sentences": {
+            "Major_premise": "所有$M$都不是$P$。",
+            "Minor_premise": "有$S$是$M$。",
+            "conclusion": "有$S$不是$P$。"
+        }
+    },
+    "Camestres": {
+        "pattern": "AEE-2",
+        "sentences": {
+            "Major_premise": "所有$P$都是$M$。",
+            "Minor_premise": "所有$S$都不是$M$。",
+            "conclusion": "所有$S$都不是$P$。"
+        }
+    },
+    "Cesare": {
+        "pattern": "EAE-2",
+        "sentences": {
+            "Major_premise": "所有$P$都不是$M$。",
+            "Minor_premise": "所有$S$都是$M$。",
+            "conclusion": "所有$S$都不是$P$。"
+        }
+    },
+    "Baroko": {
+        "pattern": "AOO-2",
+        "sentences": {
+            "Major_premise": "所有$P$都是$M$。",
+            "Minor_premise": "有$S$不是$M$。",
+            "conclusion": "有$S$不是$P$。"
+        }
+    },
+    "Festino": {
+        "pattern": "EIO-2",
+        "sentences": {
+            "Major_premise": "所有$P$都不是$M$。",
+            "Minor_premise": "有$S$是$M$。",
+            "conclusion": "有$S$不是$P$。"
+        }
+    },
+    "Datisi": {
+        "pattern": "AII-3",
+        "sentences": {
+            "Major_premise": "所有$M$都是$P$。",
+            "Minor_premise": "有$M$是$S$。",
+            "conclusion": "有$S$是$P$。"
+        }
+    },
+    "Disamis": {
+        "pattern": "IAI-3",
+        "sentences": {
+            "Major_premise": "有$M$是$P$。",
+            "Minor_premise": "所有$M$都是$S$。",
+            "conclusion": "有$S$是$P$。"
+        }
+    },
+    "Ferison": {
+        "pattern": "EIO-3",
+        "sentences": {
+            "Major_premise": "所有$M$都不是$P$。",
+            "Minor_premise": "有$M$是$S$。",
+            "conclusion": "有$S$不是$P$。"
+        }
+    },
+    "Bokardo": {
+        "pattern": "OAO-3",
+        "sentences": {
+            "Major_premise": "有$M$不是$P$。",
+            "Minor_premise": "所有$M$都是$S$。",
+            "conclusion": "有$S$不是$P$。"
+        }
+    },
+    "Camenes": {
+        "pattern": "AEE-4",
+        "sentences": {
+            "Major_premise": "所有$P$都是$M$。",
+            "Minor_premise": "所有$M$都不是$S$。",
+            "conclusion": "所有$S$都不是$P$。"
+        }
+    },
+    "Dimaris": {
+        "pattern": "IAI-4",
+        "sentences": {
+            "Major_premise": "有$P$是$M$。",
+            "Minor_premise": "所有$M$都是$S$。",
+            "conclusion": "有$S$是$P$。"
+        }
+    },
+    "Fresison": {
+        "pattern": "EIO-4",
+        "sentences": {
+            "Major_premise": "所有$P$都不是$M$。",
+            "Minor_premise": "有$M$是$S$。",
+            "conclusion": "有$S$不是$P$。"
+        }
+    }
+}
