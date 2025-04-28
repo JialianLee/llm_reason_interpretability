@@ -1,0 +1,180 @@
+{
+    "AAA-1": {
+        "major_premise_link": [
+            "AAA-1"
+        ],
+        "minor_premise_link": [
+            "AAA-1"
+        ]
+    },
+    "EAE-1": {
+        "major_premise_link": [
+            "EAE-1",
+            "AEE-2",
+            "EAE-2",
+            "AEE-4"
+        ],
+        "minor_premise_link": [
+            "AAA-1"
+        ]
+    },
+    "AII-1": {
+        "major_premise_link": [
+            "AAA-1"
+        ],
+        "minor_premise_link": [
+            "AII-1",
+            "AII-3",
+            "IAI-3",
+            "IAI-4"
+        ]
+    },
+    "EIO-1": {
+        "major_premise_link": [
+            "EAE-1",
+            "AEE-2",
+            "EAE-2",
+            "AEE-4"
+        ],
+        "minor_premise_link": [
+            "AII-1",
+            "AII-3",
+            "IAI-3",
+            "IAI-4"
+        ]
+    },
+    "AEE-2": {
+        "major_premise_link": [
+            "AAA-1"
+        ],
+        "minor_premise_link": [
+            "EAE-1",
+            "AEE-2",
+            "EAE-2",
+            "AEE-4"
+        ]
+    },
+    "EAE-2": {
+        "major_premise_link": [
+            "EAE-1",
+            "AEE-2",
+            "EAE-2",
+            "AEE-4"
+        ],
+        "minor_premise_link": [
+            "AAA-1"
+        ]
+    },
+    "AOO-2": {
+        "major_premise_link": [
+            "AAA-1"
+        ],
+        "minor_premise_link": [
+            "EIO-1",
+            "AOO-2",
+            "EIO-2",
+            "EIO-3",
+            "OAO-3",
+            "EIO-4"
+        ]
+    },
+    "EIO-2": {
+        "major_premise_link": [
+            "EAE-1",
+            "AEE-2",
+            "EAE-2",
+            "AEE-4"
+        ],
+        "minor_premise_link": [
+            "AII-1",
+            "AII-3",
+            "IAI-3",
+            "IAI-4"
+        ]
+    },
+    "AII-3": {
+        "major_premise_link": [
+            "AAA-1"
+        ],
+        "minor_premise_link": [
+            "AII-1",
+            "AII-3",
+            "IAI-3",
+            "IAI-4"
+        ]
+    },
+    "IAI-3": {
+        "major_premise_link": [
+            "AII-1",
+            "AII-3",
+            "IAI-3",
+            "IAI-4"
+        ],
+        "minor_premise_link": [
+            "AAA-1"
+        ]
+    },
+    "EIO-3": {
+        "major_premise_link": [
+            "EAE-1",
+            "AEE-2",
+            "EAE-2",
+            "AEE-4"
+        ],
+        "minor_premise_link": [
+            "AII-1",
+            "AII-3",
+            "IAI-3",
+            "IAI-4"
+        ]
+    },
+    "OAO-3": {
+        "major_premise_link": [
+            "EIO-1",
+            "AOO-2",
+            "EIO-2",
+            "EIO-3",
+            "OAO-3",
+            "EIO-4"
+        ],
+        "minor_premise_link": [
+            "AAA-1"
+        ]
+    },
+    "AEE-4": {
+        "major_premise_link": [
+            "AAA-1"
+        ],
+        "minor_premise_link": [
+            "EAE-1",
+            "AEE-2",
+            "EAE-2",
+            "AEE-4"
+        ]
+    },
+    "IAI-4": {
+        "major_premise_link": [
+            "AII-1",
+            "AII-3",
+            "IAI-3",
+            "IAI-4"
+        ],
+        "minor_premise_link": [
+            "AAA-1"
+        ]
+    },
+    "EIO-4": {
+        "major_premise_link": [
+            "EAE-1",
+            "AEE-2",
+            "EAE-2",
+            "AEE-4"
+        ],
+        "minor_premise_link": [
+            "AII-1",
+            "AII-3",
+            "IAI-3",
+            "IAI-4"
+        ]
+    }
+}

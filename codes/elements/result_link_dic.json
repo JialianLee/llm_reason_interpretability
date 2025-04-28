@@ -1,0 +1,279 @@
+{
+    "Barbara": {
+        "major_premise_link": [
+            "Barbara"
+        ],
+        "minor_premise_link": [
+            "Barbara"
+        ],
+        "conclusion_link": [
+            "Barbara"
+        ]
+    },
+    "Celarent": {
+        "major_premise_link": [
+            "Celarent",
+            "Camestres",
+            "Cesare",
+            "Camenes"
+        ],
+        "minor_premise_link": [
+            "Barbara"
+        ],
+        "conclusion_link": [
+            "Celarent",
+            "Camestres",
+            "Cesare",
+            "Camenes"
+        ]
+    },
+    "Darii": {
+        "major_premise_link": [
+            "Barbara"
+        ],
+        "minor_premise_link": [
+            "Darii",
+            "Datisi",
+            "Disamis",
+            "Dimaris"
+        ],
+        "conclusion_link": [
+            "Darii",
+            "Datisi",
+            "Disamis",
+            "Dimaris"
+        ]
+    },
+    "Ferio": {
+        "major_premise_link": [
+            "Celarent",
+            "Camestres",
+            "Cesare",
+            "Camenes"
+        ],
+        "minor_premise_link": [
+            "Darii",
+            "Datisi",
+            "Disamis",
+            "Dimaris"
+        ],
+        "conclusion_link": [
+            "Ferio",
+            "Baroko",
+            "Festino",
+            "Ferison",
+            "Bokardo",
+            "Fresison"
+        ]
+    },
+    "Camestres": {
+        "major_premise_link": [
+            "Barbara"
+        ],
+        "minor_premise_link": [
+            "Celarent",
+            "Camestres",
+            "Cesare",
+            "Camenes"
+        ],
+        "conclusion_link": [
+            "Celarent",
+            "Camestres",
+            "Cesare",
+            "Camenes"
+        ]
+    },
+    "Cesare": {
+        "major_premise_link": [
+            "Celarent",
+            "Camestres",
+            "Cesare",
+            "Camenes"
+        ],
+        "minor_premise_link": [
+            "Barbara"
+        ],
+        "conclusion_link": [
+            "Celarent",
+            "Camestres",
+            "Cesare",
+            "Camenes"
+        ]
+    },
+    "Baroko": {
+        "major_premise_link": [
+            "Barbara"
+        ],
+        "minor_premise_link": [
+            "Ferio",
+            "Baroko",
+            "Festino",
+            "Ferison",
+            "Bokardo",
+            "Fresison"
+        ],
+        "conclusion_link": [
+            "Ferio",
+            "Baroko",
+            "Festino",
+            "Ferison",
+            "Bokardo",
+            "Fresison"
+        ]
+    },
+    "Festino": {
+        "major_premise_link": [
+            "Celarent",
+            "Camestres",
+            "Cesare",
+            "Camenes"
+        ],
+        "minor_premise_link": [
+            "Darii",
+            "Datisi",
+            "Disamis",
+            "Dimaris"
+        ],
+        "conclusion_link": [
+            "Ferio",
+            "Baroko",
+            "Festino",
+            "Ferison",
+            "Bokardo",
+            "Fresison"
+        ]
+    },
+    "Datisi": {
+        "major_premise_link": [
+            "Barbara"
+        ],
+        "minor_premise_link": [
+            "Darii",
+            "Datisi",
+            "Disamis",
+            "Dimaris"
+        ],
+        "conclusion_link": [
+            "Darii",
+            "Datisi",
+            "Disamis",
+            "Dimaris"
+        ]
+    },
+    "Disamis": {
+        "major_premise_link": [
+            "Darii",
+            "Datisi",
+            "Disamis",
+            "Dimaris"
+        ],
+        "minor_premise_link": [
+            "Barbara"
+        ],
+        "conclusion_link": [
+            "Darii",
+            "Datisi",
+            "Disamis",
+            "Dimaris"
+        ]
+    },
+    "Ferison": {
+        "major_premise_link": [
+            "Celarent",
+            "Camestres",
+            "Cesare",
+            "Camenes"
+        ],
+        "minor_premise_link": [
+            "Darii",
+            "Datisi",
+            "Disamis",
+            "Dimaris"
+        ],
+        "conclusion_link": [
+            "Ferio",
+            "Baroko",
+            "Festino",
+            "Ferison",
+            "Bokardo",
+            "Fresison"
+        ]
+    },
+    "Bokardo": {
+        "major_premise_link": [
+            "Ferio",
+            "Baroko",
+            "Festino",
+            "Ferison",
+            "Bokardo",
+            "Fresison"
+        ],
+        "minor_premise_link": [
+            "Barbara"
+        ],
+        "conclusion_link": [
+            "Ferio",
+            "Baroko",
+            "Festino",
+            "Ferison",
+            "Bokardo",
+            "Fresison"
+        ]
+    },
+    "Camenes": {
+        "major_premise_link": [
+            "Barbara"
+        ],
+        "minor_premise_link": [
+            "Celarent",
+            "Camestres",
+            "Cesare",
+            "Camenes"
+        ],
+        "conclusion_link": [
+            "Celarent",
+            "Camestres",
+            "Cesare",
+            "Camenes"
+        ]
+    },
+    "Dimaris": {
+        "major_premise_link": [
+            "Darii",
+            "Datisi",
+            "Disamis",
+            "Dimaris"
+        ],
+        "minor_premise_link": [
+            "Barbara"
+        ],
+        "conclusion_link": [
+            "Darii",
+            "Datisi",
+            "Disamis",
+            "Dimaris"
+        ]
+    },
+    "Fresison": {
+        "major_premise_link": [
+            "Celarent",
+            "Camestres",
+            "Cesare",
+            "Camenes"
+        ],
+        "minor_premise_link": [
+            "Darii",
+            "Datisi",
+            "Disamis",
+            "Dimaris"
+        ],
+        "conclusion_link": [
+            "Ferio",
+            "Baroko",
+            "Festino",
+            "Ferison",
+            "Bokardo",
+            "Fresison"
+        ]
+    }
+}
