@@ -1,0 +1,30 @@
+{
+    "A": [
+        "All Alpha are Beta.",
+        "Every Alpha is a Beta.",
+        "No Alpha is not a Beta.",
+        "There are no Alphas that are not Betas.",
+        "The claim \"there exists one Alpha that is not Beta\" is not true."
+    ],
+    "E": [
+        "All Alpha are not Beta.",
+        "Every Alpha is not a Beta.",
+        "No Alpha is a Beta.",
+        "There are no Alphas that are Betas.",
+        "The claim \"there exists one Alpha that is Beta\" is not true."
+    ],
+    "I": [
+        "There exists one Alpha that is Beta.",
+        "Some Alpha are Beta.",
+        "Not all Alphas are not Beta.",
+        "There exists at least one Alpha that is a Beta.",
+        "The claim \"all Alphas are not Betas\" is not true."
+    ],
+    "O": [
+        "There exists one Alpha that is not Beta.",
+        "Some Alpha are not Beta.",
+        "Not all Alphas are Beta.",
+        "There exists at least one Alpha that is not a Beta.",
+        "The claim \"all Alphas are Betas\" is not true."
+    ]
+}
