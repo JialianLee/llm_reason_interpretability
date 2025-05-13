@@ -1,0 +1,30 @@
+{
+    "A": [
+        "All subject are predicate.",
+        "Every subject is a predicate.",
+        "No subject is not a predicate.",
+        "There are no subjects that are not predicates.",
+        "The claim \"there exists one subject that is not predicate\" is not true."
+    ],
+    "E": [
+        "All subject are not predicate.",
+        "Every subject is not a predicate.",
+        "No subject is a predicate.",
+        "There are no subjects that are predicates.",
+        "The claim \"there exists one subject that is predicate\" is not true."
+    ],
+    "I": [
+        "There exists one subject that is predicate.",
+        "Some subject are predicate.",
+        "Not all subjects are not predicate.",
+        "There exists at least one subject that is a predicate.",
+        "The claim \"all subjects are not predicates\" is not true."
+    ],
+    "O": [
+        "There exists one subject that is not predicate.",
+        "Some subject are not predicate.",
+        "Not all subjects are predicate.",
+        "There exists at least one subject that is not a predicate.",
+        "The claim \"all subjects are predicates\" is not true."
+    ]
+}
